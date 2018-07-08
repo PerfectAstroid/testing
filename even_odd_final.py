@@ -28,4 +28,4 @@ def iq_test(numbers):
                 return count
             else: pass
 
-print(iq_test("15 20 30 "))
+print('kek')
